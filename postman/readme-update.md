@@ -56,12 +56,13 @@
 
 # Buổi 5: Advanced Automation and CI/CD for API Testing
 ## Mục tiêu:
-- Thành thạo automation nâng cao, tích hợp CI/CD cho API testing.
+- Thành thạo automation nâng cao với Postman và tích hợp CI/CD.
 ## Nội dung:
 - Postman nâng cao: Flow, monitor, kết nối CSDL và truy vấn dữ liệu.
-- Playwright nâng cao: Tùy chỉnh test, báo cáo, xử lý exception.
-- CI/CD cho API testing: Tích hợp Postman/Playwright với GitHub Actions/Jenkins.
+- Postman automation: Viết script phức tạp (chaining requests, dynamic data).
+- CI/CD cho API testing: Tích hợp Postman với GitHub Actions/Jenkins.
 - Best practices: Tổ chức test case, báo cáo kết quả, tối ưu hóa automation.
-Demo: Dự án tích hợp CI/CD cho API testing.
+## Demo:
+- Dự án tích hợp CI/CD với Postman collection.
 ## Bài tập:
-- Thiết lập pipeline CI/CD đơn giản cho test suite trong Postman/Playwright.
+- Thiết lập pipeline CI/CD đơn giản cho test suite trong Postman
