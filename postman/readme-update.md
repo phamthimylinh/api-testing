@@ -26,21 +26,29 @@
 - Tạo collection trong Postman, viết test case với điều kiện và vòng lặp.
 
 
-# Buổi 3: Postman Advanced and API Documentation
+# Buổi 3: Postman Advanced 1 and API Documentation
 ## Mục tiêu:
 - Thành thạo Postman nâng cao, hiểu GraphQL, và viết tài liệu API.
 ## Nội dung:
-- Postman nâng cao: Variable scope, Pre-request Script, Post-response Script.
-- Postman features: Visualization, body data types, mock server.
-- Tìm hiểu GraphQL: Khái niệm, test GraphQL API với Postman.
+- Nắm được kiến thức Pre-request Script
+- Hiểu Post-response Script 
+- Kết nối vào CSDL, truy vấn dữ liệu
 - Viết API documentation trong Postman.
 ## Thực hành:
-- Tạo mock server, viết script tự động kiểm tra response, tài liệu hóa API.
-## Bài tập:
-- Viết script tự động trong Postman và tạo tài liệu cho API sample.
+- Thực hành viết Script
 
 
-# Buổi 4: WebSocket and Automation with Playwright
+# 4. Buổi 4: Postman Advanced 2, grapQL, test GraphQL với Postman
+## Nội dung:
+- Postman features: Visualization, body data types, mock server(flow, mock server, monitor)
+- Tìm hiểu về GraphQL
+- Test GraphQL API với Postman
+## Thực hành:
+- Tạo mock server, flow, monitor với Postman.
+- Thực hành GraphQL với Postman.
+
+
+# Buổi 5: WebSocket and Automation with Playwright
 ## Mục tiêu:
 - Hiểu WebSocket, thực hành automation testing với Playwright.
 ## Nội dung:
@@ -52,17 +60,3 @@
 - Automation test cho REST API.
 ## Bài tập:
 - Viết automation test với Playwright, test WebSocket với Postman.
-
-
-# Buổi 5: Advanced Automation and CI/CD for API Testing
-## Mục tiêu:
-- Thành thạo automation nâng cao với Postman và tích hợp CI/CD.
-## Nội dung:
-- Postman nâng cao: Flow, monitor, kết nối CSDL và truy vấn dữ liệu.
-- Postman automation: Viết script phức tạp (chaining requests, dynamic data).
-- CI/CD cho API testing: Tích hợp Postman với GitHub Actions/Jenkins.
-- Best practices: Tổ chức test case, báo cáo kết quả, tối ưu hóa automation.
-## Demo:
-- Dự án tích hợp CI/CD với Postman collection.
-## Bài tập:
-- Thiết lập pipeline CI/CD đơn giản cho test suite trong Postman
